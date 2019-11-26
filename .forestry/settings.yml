@@ -7,8 +7,6 @@ sections:
 - type: document
   path: labels
   label: label1
-  match: "**/*"
-  read_only: false
 - type: document
   path: portfolio/index.md
   label: Homepage
